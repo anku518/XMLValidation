@@ -6,7 +6,7 @@
 		<country>USA</country>
 		<company>Columbia</company>
 		<price>10.90</price>
-		<year>1985</yar>
+		<year>1985</year>
 	</cd>
 	<cd id="2">
 		<title>Hidden your Talent</title>
