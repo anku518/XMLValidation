@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT catalog (cd+)>
+<!ELEMENT cd (title,author,country,company,price,year)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ATTLIST cd id CDATA #REQUIRED>

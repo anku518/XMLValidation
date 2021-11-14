@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<cd id="1">
+		<title>How do you Do</title>
+		<author>Bob Dylan</author>
+		<country>USA</country>
+		<company>Columbia</company>
+		<price>10.90</price>
+		<year>1985</yar>
+	</cd>
+	<cd id="2">
+		<title>Hidden your Talent</title>
+		<author>Twinkle Khanna</author>
+		<country>India</country>
+		<company>Penguin</company>
+		<price>14.80</price>
+		<year>2000</year>
+	</cd>
+	<cd id="3">
+		<title>PS I Love Your</title>
+		<author>Ceclina Arhen</author>
+		<country>UK</country>
+		<company>Hachette</company>
+		<price>13.45</price>
+		<year>1994</year>
+	</cd>
+	<cd id="4">
+		<title>Still Got the Blues</title>
+		<author>Gary Moore</author>
+		<country>Spain</country>
+		<company>Virgin Records</company>
+		<price>10.50</price>
+		<year>1999</year>
+	</cd>
+	<cd id="5">
+		<title>Harry Potter</title>
+		<author>J K Rowling</author>
+		<country>USA</country>
+		<company>Scholaristic</company>
+		<price>25.50</price>
+		<year>2002</year>
+	</cd>
+</catalog>
