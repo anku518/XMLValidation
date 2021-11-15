@@ -18,20 +18,19 @@ public class domParserSchema {
 		
 			flag = false;
 			
-			  System.err.println("The file is invalid! Reason:");
-			  System.err.println(e.getMessage());
+			System.out.println("ERROR : " + e.getMessage());
 			 
 
 	} catch (IOException e) {
 		
 		flag = false;
 		
-		  System.err.println("The file is invalid! Reason:");
-		  System.err.println(e.getMessage());
+		System.out.println("ERROR : " + e.getMessage());
 		 
 	}
 
-		System.out.println("XML Schema file is valid :" + flag);
+		
+		System.out.println("Schema XML file is valid :" + flag);
 	}
 	private static void validate(String xmlFile, String validationFile) throws SAXException, IOException {
 		
